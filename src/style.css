@@ -1,0 +1,20 @@
+.box{
+    border: 2px solid white;
+    border-radius: 10px;
+    text-align: center;
+    margin: 10px;
+    
+}
+.img{
+
+    
+    height: 200px;
+}
+.btn{
+    margin: 10px;
+    padding: 10px;
+}
+.visited{
+    background-color: burlywood;
+    color: blue;
+}

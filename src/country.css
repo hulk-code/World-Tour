@@ -1,0 +1,12 @@
+.one{
+
+   display: grid;
+   grid-template-columns: repeat(3 , 1fr);
+}
+.two{
+    text-align: center;
+}
+.img-container{
+    width: 100px;
+    height: 100px;
+}
